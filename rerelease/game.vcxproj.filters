@@ -354,6 +354,9 @@
     <ClCompile Include="m_shambler.cpp">
       <Filter>monster</Filter>
     </ClCompile>
+    <ClCompile Include="json.cpp">
+      <Filter>jump</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="jump">
